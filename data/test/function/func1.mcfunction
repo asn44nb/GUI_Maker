@@ -1,0 +1,2 @@
+playsound minecraft:ui.button.click master @a ~ ~ ~ 1 1
+say ✔ It passed the test.
