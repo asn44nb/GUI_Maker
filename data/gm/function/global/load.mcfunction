@@ -17,4 +17,5 @@ scoreboard objectives add gm.POS.FINAL dummy
 
 function gm:global/loop_1t
 data merge storage gm:_ {Feedback:1b}
+data merge storage gm:sound {"sound":"minecraft:entity.player.levelup"}
 
